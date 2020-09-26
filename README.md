@@ -1,4 +1,4 @@
-### Name:sai nidhin kaminipaty 
+### Name: Sai nidhin kaminipaty 
 ### Start Time: November 2019
 
 ## Here are some of my full stack projects:
